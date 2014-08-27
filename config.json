@@ -1,0 +1,42 @@
+{
+  "apiURI": "http://ubiapps.com/api/ucontrol",
+  "params": {
+    "instances": [
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Ubiapps London",
+          "deviceId":"75d20730-2962-11e4-bc41-2788feae28d7"
+        }
+      },
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Trial 001",
+          "deviceId":"ad5782c0-2930-11e4-bc41-2788feae28d7"
+        }
+      },
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Trial 002",
+          "deviceId":"514121b0-2946-11e4-bc41-2788feae28d7"
+        }
+      },
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Trial 004",
+          "deviceId":"ba650010-293e-11e4-bc41-2788feae28d7"
+        }
+      },
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Trial 005",
+          "deviceId":"d4172590-2940-11e4-bc41-2788feae28d7"
+        }
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
 ubiapps-api-uControl
 ====================
 
-uControl API
+ubiapps adapter exposing uControl API
