@@ -13,7 +13,7 @@
         "id": "",
         "params": {
           "deviceName":"Trial 001",
-          "deviceId":"ad5782c0-2930-11e4-bc41-2788feae28d7"
+          "deviceId":"6928b0f0-31ba-11e4-ab08-71b50172ad87"
         }
       },
       {
@@ -21,6 +21,13 @@
         "params": {
           "deviceName":"Trial 002",
           "deviceId":"514121b0-2946-11e4-bc41-2788feae28d7"
+        }
+      },
+      {
+        "id": "",
+        "params": {
+          "deviceName":"Trial 003",
+          "deviceId":"846b9750-31b6-11e4-ab08-71b50172ad87"
         }
       },
       {
